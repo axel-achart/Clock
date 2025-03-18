@@ -4,7 +4,7 @@ This project is a **digital clock** implemented in **Python**, displaying the cu
 
 ## 📂 Repository Contents
 
-- **`clock.py`** – Main script that runs the digital clock.
+- **`horloge-mamie-vf.py`** – Main script that runs the digital clock.
 - **`README.md`** – Project documentation.
 - **`.gitignore`** – Specifies files to be ignored by Git.
 
